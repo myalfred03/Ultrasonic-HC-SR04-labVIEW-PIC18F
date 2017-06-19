@@ -1,0 +1,19 @@
+[PROJECT]
+Target=ULTRAS.hex
+Processor_Text=PIC18F4550
+CCSVersion=5.015
+Compiler=PCH
+[Target Data]
+FileList=ULTRAS.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\devices\;C:\Program Files (x86)\PICC\drivers\C:\Program Files (x86)\PICC\devices\;C:\Program Files (x86)\PICC\drivers\
+[ULTRAS.c]
+Type=4
+[mru-list]
+1=ULTRAS.c
+[Opened Files]
+1=ULTRAS.c
+2=
+[Units]
+Count=1
+1=ULTRAS (main)

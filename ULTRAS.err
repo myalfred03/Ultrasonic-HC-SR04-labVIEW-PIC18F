@@ -1,0 +1,5 @@
+>>> Warning 203 "C:\Program Files (x86)\PICC\drivers\pic18_usb.c" Line 643(1,1): Condition always TRUE
+>>> Warning 203 "ULTRAS.c" Line 38(1,1): Condition always TRUE
+>>> Warning 216 "ULTRAS.c" Line 70(1,2): Interrupts disabled during call to prevent re-entrancy:  (usb_token_reset)
+>>> Warning 216 "ULTRAS.c" Line 70(1,2): Interrupts disabled during call to prevent re-entrancy:  (usb_tbe)
+>>> Warning 216 "ULTRAS.c" Line 70(1,2): Interrupts disabled during call to prevent re-entrancy:  (usb_flush_in)
